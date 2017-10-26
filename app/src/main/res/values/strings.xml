@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CCI_Profile_Maker</string>
+    <string name="department">Department:</string>
+    <string name="sis">SIS</string>
+    <string name="cs">CS</string>
+    <string name="bio">BIO</string>
+    <string name="curMood">Your Current Mood:</string>
+    <string name="happy">Happy</string>
+    <string name="selectAvatarTitle">Select Your Avatar</string>
+    <string name="profileEmail">Email:</string>
+    <string name="profileDepart">Department:</string>
+    <string name="profileHappy">I am Happy!</string>
+    <string name="Angry">Angry</string>
+    <string name="sad">Sad</string>
+    <string name="awesome">Awesome</string>
+    <string name="submit">Submit!</string>
+    <string name="profileAngry">I am Angry!</string>
+    <string name="profileSad">I am Sad!</string>
+    <string name="profileAwesome">I am Awesome!</string>
+</resources>
